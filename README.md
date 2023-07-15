@@ -1,2 +1,2 @@
 # ML-Interview-Practice
-My submission to interview assignments for Machine learning
+Practicing interview questions for machine learning
