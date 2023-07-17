@@ -1,3 +1,8 @@
+##This assignment is to demonstrate how to use supervised machine learning
+
+
+
+
 Create a ML model for the given dataset with supervised learning approach. 
 1. DO EDA of dataset. 
 2. Embedding/normalization/dimension reduction (any approach depends on your approach)
